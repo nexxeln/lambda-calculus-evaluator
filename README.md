@@ -3,4 +3,4 @@ A very basic [untyped lambda calculus](https://en.wikipedia.org/wiki/Lambda_calc
 Things implemented:
 
 - [x] Church Numerals
-- [] Y Combinator
+- [ ] Y Combinator
